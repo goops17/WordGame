@@ -29,3 +29,13 @@ Fun With Letters / Integers - is a game that uses a 4 x 4 board to solve the fol
 - error check code 100% - don't allow any errors in user entry and game logic
 
 - submit final code here with screen shots of it working and final code.
+
+## My additional features
+- Colors in game (to know entered number, reamaining number and hints)
+- Ability to choose between restart, reload
+- Win/Defeat screen
+- Optimized algrotihm (kinda based on nQueens problem)
+
+## How game looks 
+
+
