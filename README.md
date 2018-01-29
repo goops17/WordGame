@@ -37,5 +37,28 @@ Fun With Letters / Integers - is a game that uses a 4 x 4 board to solve the fol
 - Optimized algrotihm (kinda based on nQueens problem)
 
 ## How game looks 
+### Initial game screen
+![initia](https://user-images.githubusercontent.com/35678561/35520676-547c6de6-04dd-11e8-925d-9eb5ed6ebbb4.jpg)
+
+### Game screen with numbers
+![10](https://user-images.githubusercontent.com/35678561/35520494-cc55e85c-04dc-11e8-92d5-10cb17071489.jpg)
+
+### Game screen with words
+![3](https://user-images.githubusercontent.com/35678561/35520557-f744dd52-04dc-11e8-84b3-6bf6e4932ed4.jpg)
+
+### Game play screen
+![5](https://user-images.githubusercontent.com/35678561/35520605-16ead3be-04dd-11e8-8769-4a34d369d3c6.jpg)
+
+### Board full screen
+![9](https://user-images.githubusercontent.com/35678561/35520634-2ee10362-04dd-11e8-82d6-0996ee2a8862.jpg)
+
+### Game win screen
+![6](https://user-images.githubusercontent.com/35678561/35520707-65762876-04dd-11e8-8c1f-a015679c58f8.jpg)
+![7](https://user-images.githubusercontent.com/35678561/35520708-658caa92-04dd-11e8-93fc-a732b3783424.jpg)
+![8](https://user-images.githubusercontent.com/35678561/35520709-65ba1cde-04dd-11e8-8c55-72c02a037d78.jpg)
+
+
+
+
 
 
