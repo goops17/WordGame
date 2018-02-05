@@ -1,6 +1,6 @@
 # WordGame
 ## Requirements of game
- Using vectors or arrays, backtracking, other required algorithms and Object Oriented programming practices create the following game.
+### Using vectors or arrays, backtracking, other required algorithms and Object Oriented programming practices create the following game.
 
 Fun With Letters / Integers - is a game that uses a 4 x 4 board to solve the following requirements:
 
